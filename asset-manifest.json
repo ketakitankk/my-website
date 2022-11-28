@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.a164c309.css",
+    "main.js": "/my-website/static/js/main.ca860f07.js",
+    "static/media/Ketaki-Image.jpeg": "/my-website/static/media/Ketaki-Image.28d68635de1fffd5dd73.jpeg",
+    "index.html": "/my-website/index.html",
+    "main.a164c309.css.map": "/my-website/static/css/main.a164c309.css.map",
+    "main.ca860f07.js.map": "/my-website/static/js/main.ca860f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a164c309.css",
+    "static/js/main.ca860f07.js"
+  ]
+}
